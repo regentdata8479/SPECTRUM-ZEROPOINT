@@ -1,0 +1,10 @@
+datasets/
+exports/
+*.db
+*.sqlite
+*.sqlite3
+__pycache__/
+*.pyc
+.env
+.env.*
+kitsint_settings.json
