@@ -1,5 +1,5 @@
 # SPECTRUM: ZEROPOINT
-
+![SPECTRUM: ZEROPOINT](spectrum-zero-pointV6.1.png)
 **OSINT & CSINT Desktop Investigation Toolkit**
 
 SPECTRUM: ZEROPOINT is a Python-based desktop application designed to bring multiple information-gathering and network diagnostic tools together in one interface.
