@@ -15,7 +15,7 @@ SPECTRUM: ZEROPOINT is a Python-based desktop application designed to bring mult
 - **Statistics** — View information about loaded datasets.
 - **Watchlist** — Keep track of locally saved investigation entries.
 - **Snapshots** — Save local snapshots.
-- **Export Center** — Export supported investigation results.
+- **Export Center** — Export investigation results.
 - **Settings** — Configure application preferences.
 
 ## Requirements
@@ -75,7 +75,7 @@ Supported source-file naming pattern:
 users_part_*.csv
 ```
 
-Dataset files are not included in this repository.
+
 
 ## Project Structure
 
@@ -97,13 +97,9 @@ The `datasets`, `exports`, and database files are generated or maintained locall
 
 ## Responsible Use
 
-SPECTRUM: ZEROPOINT is intended for educational purposes, authorized investigations, and systems you own or have explicit permission to inspect.
-
-- Only investigate data you are authorized to access.
-- Only run network diagnostics against systems you own or have permission to test.
 - Respect privacy and applicable laws.
 - Do not use the application to harass, stalk, or target individuals.
-- Do not upload private datasets, credentials, API keys, or personal information to public repositories.
+
 
 ## Disclaimer
 
